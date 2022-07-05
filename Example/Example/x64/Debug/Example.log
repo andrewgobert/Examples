@@ -1,4 +1,0 @@
-﻿  Gradient.cpp
-C:\Users\Andrew Gobert\source\repos\Example\Example\Gradient.cpp(83,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Andrew Gobert\source\repos\Example\Example\Gradient.cpp(142,11): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
-  Example.vcxproj -> C:\Users\Andrew Gobert\source\repos\Example\x64\Debug\Example.exe
